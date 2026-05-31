@@ -3,7 +3,7 @@ const GUEST_LOGIN = {
     "password": "Nichtvergessen1!"
 }
 
-const API_BASE_URL = 'http://127.0.0.1:8000/api/';
+const API_BASE_URL = 'https://kanmind-backend-2onc.onrender.com/api/';
 
 const LOGIN_URL = 'login/';
 
