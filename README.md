@@ -63,7 +63,7 @@ https://github.com/NicoMeyerDev/kanmind-backend
 
 KanMind wurde entwickelt, um Projekte, Aufgaben und Workflows übersichtlich in einer Kanban-Struktur zu organisieren und gleichzeitig praktische Erfahrungen in der Entwicklung moderner Webanwendungen mit Frontend und Backend zu sammeln.
 
-##📄 Hinweis
+📄 Hinweis
 
 Das Frontend basiert auf einer Vorlage der Developer Akademie und wurde im Rahmen der Weiterbildung bereitgestellt.
 
